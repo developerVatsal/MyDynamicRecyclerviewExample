@@ -26,7 +26,7 @@ allprojects {
 - Add this to your app build.gradle:
 ~~~
 dependencies {
-	compile 'com.github.vatsaldesai92:MyDynamicRecyclerviewLibrary:1.0.1'
+	compile 'com.github.vatsaldesai92:MyDynamicRecyclerviewLibrary:1.0.2'
 }
 ~~~
 
